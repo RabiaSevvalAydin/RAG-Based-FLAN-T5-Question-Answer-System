@@ -8,3 +8,5 @@ This project demonstrates a RAG (Retrieval-Augmented Generation) approach using 
 * LLM Model: FLAN-T5-base
 * Dataset: NaturalQuestions
 * Evalutaion: EM (Exact Match), F1-score, ROUGE
+
+🚀 *Note:  This project is currently under development. The final codebase, including a fully functional RAG-enhanced QA system, will be available soon.* 
